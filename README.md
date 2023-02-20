@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://somiibo.com/platforms/{url}">
+  <a href="https://somiibo.com/platforms/traffic-bot">
     <img src="https://cdn.itwcreativeworks.com/assets/somiibo/images/logo/somiibo-brandmark-blue-x.svg" width="100px">
   </a>
 </p>
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/contributors/itw-creative-works/node-powertools.svg">
   <br>
   <br>
-  <strong>{name}</strong> {description}
+  <strong>Website Traffic Bot</strong> is a free software that generates traffic on your website and lowers your bounce rate
 </p>
 
 # 💻 Installation
@@ -32,7 +32,11 @@ npm start
 
 
 # 🎉 Features
-- {features}
+- Generate traffic on your website
+- Proxy scraper automatically gets fresh proxies 24/7
+- Choose target countries
+- User agents randomized (or set your own!)
+- HTTP Referrer randomized (or set your own!)
 
 # 🙋‍♂️ Want to contribute?
 Want to contribute? Great! All contributions are welcome, from code to documentation to graphics to design suggestions to bug reports. 
