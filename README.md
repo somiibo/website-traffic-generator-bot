@@ -4,7 +4,7 @@
 
 <h1>Website Traffic Generator</h1>
 
-<p><strong>Free website traffic generator</strong> that generates traffic on your websites</p>
+<p><strong>Free <a href="https://somiibo.com/platforms/traffic-bot">website traffic generator</a></strong> that generates traffic on your websites</p>
 
 <p>
 <a href="https://somiibo.com/download"><img src="https://img.shields.io/badge/Download-Free-28a745?style=for-the-badge" alt="Download Free"></a>
@@ -23,7 +23,7 @@
 
 <br>
 
-> **[Somiibo](https://somiibo.com/platforms/traffic-bot)** Automate social media activity to get real followers, likes, & reposts on TikTok, Instagram, SoundCloud, Twitter & many more sites. Spend less time marketing!
+> Automate social media activity to get real followers, likes, & reposts on TikTok, Instagram, SoundCloud, Twitter & many more sites. Spend less time marketing!
 
 <br>
 
