@@ -1,36 +1,27 @@
 {
-  "name": "somiibo-downloader",
+  "name": "novabennett95-website-traffic-generator-bot",
   "version": "1.0.0",
-  "description": "Download Somiibo, a free social media automation platform that organically grows your online presence and gets you more followers.",
+  "description": "Website Traffic Generator generates traffic on your websites",
   "main": "src/index.js",
   "scripts": {
-    "start": "node -e \"require('app-downloader')()\""
-  },
-  "engines": {
-    "node": ">=18"
-  },
-  "downloads": {
-    "darwin": "https://github.com/somiibo/download-server/releases/download/installer/Somiibo.dmg",
-    "win32": "https://github.com/somiibo/download-server/releases/download/installer/Somiibo-Setup.exe",
-    "linux": "https://github.com/somiibo/download-server/releases/download/installer/Somiibo_amd64.deb"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/somiibo/download-server.git"
+    "start": "node src/index.js"
   },
   "keywords": [
-    "management",
-    "backend",
-    "frontend",
-    "productivity"
+    "website-traffic",
+    "traffic-generator",
+    "traffic-bot",
+    "automation",
+    "seo",
+    "marketing",
+    "javascript",
+    "nodejs",
+    "saas"
   ],
   "author": "Somiibo",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/somiibo/somiibo-microservice-template/issues"
-  },
-  "homepage": "https://somiibo.com",
-  "dependencies": {
-    "app-downloader": "^1.0.0"
+  "homepage": "https://somiibo.com/platforms/traffic-bot",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novabennett95/website-traffic-generator-bot.git"
   }
 }
